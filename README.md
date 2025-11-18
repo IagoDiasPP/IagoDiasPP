@@ -68,7 +68,8 @@ Meu foco é evoluir rapidamente através de projetos reais, estudo estruturado e
 
 📫 Entre em contato comigo
 
-LinkedIn: (coloque aqui o link)
+LinkedIn: www.linkedin.com/in/
+iago-dias-b970a0384
 
 ✨ Sobre mim
 
