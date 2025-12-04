@@ -42,7 +42,7 @@ Git & GitHub
 Postman
 
 📂 Projeto em destaque
-📘 ProjetoPessoal – Sistema de Locação IagoDiasPP/locadora-springboot
+📘 ProjetoPessoal – Sistema de Locação 
 
 Aplicação backend com foco em organização por camadas e boas práticas.
 Funcionalidades principais:
