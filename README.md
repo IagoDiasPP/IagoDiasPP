@@ -42,14 +42,14 @@ Git & GitHub
 Postman
 
 📂 Projeto em destaque
-📘 ProjetoPessoal – Sistema de Biblioteca
+📘 ProjetoPessoal – Sistema de Locação IagoDiasPP/locadora-springboot
 
 Aplicação backend com foco em organização por camadas e boas práticas.
 Funcionalidades principais:
 
 Cadastro e gerenciamento de usuários
 
-Cadastro e controle de livros
+Cadastro e controle de Filmes
 
 Fluxo completo de aluguel e devolução
 
